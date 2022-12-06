@@ -1,0 +1,20 @@
+/* page styling */
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    background: lightcoral;
+}
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+p, ul, ol {
+    font-size: 20px;
+}
+
